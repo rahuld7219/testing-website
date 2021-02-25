@@ -11,7 +11,8 @@ html {
 }
 
 h1 {
-	font-size: 3rem;
+	/*font-size: 3rem;*/
+	font-size: 5vw; /*for responsive font size, it is 5% of browser window size*/
 	color:#e2dbdb;
 }
 
